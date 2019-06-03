@@ -1,0 +1,12 @@
+#include<stdio.h>
+using namespace std;
+int sum
+{
+	int a,b,c;
+	cout<<"Enter two number";
+	cin>>a,b;
+	c=a+b;
+	cout<<"the result is"<<c;
+	return 0;
+}
+	
